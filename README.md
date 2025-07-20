@@ -1,6 +1,6 @@
 # IX International School **2025**
 
-From 13:30 to 15:50 on July 20
+From 13:30 to 15:50 on July 21
 
 _A decision tree approach for sugarcane area classification_
 
